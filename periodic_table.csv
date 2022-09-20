@@ -1,0 +1,119 @@
+symbol,name,atomic_number,block,atomic_weight,electron_configuration
+H,Hydrogen,1,s-block,1.008,1s1
+He,Helium,2,s-block,4.0026022,1s2
+Li,Lithium,3,s-block,6.94,[He] 2s1
+Be,Beryllium,4,s-block,9.01218315,[He] 2s2
+B,Boron,5,p-block,10.81,[He] 2s2 2p1
+C,Carbon,6,p-block,12.011,[He] 2s2 2p2
+N,Nitrogen,7,p-block,14.007,[He] 2s2 2p3
+O,Oxygen,8,p-block,15.999,[He] 2s2 2p4
+F,Fluorine,9,p-block,18.99840316,[He] 2s2 2p5
+Ne,Neon,10,p-block,20.17976,[He] 2s2 2p6
+Na,Sodium,11,s-block,22.98976928,[Ne] 3s1
+Mg,Magnesium,12,s-block,24.305,[Ne] 3s2
+Al,Aluminum,13,p-block,26.98153857,[Ne] 3s2 3p1
+Si,Silicon,14,p-block,28.085,[Ne] 3s2 3p2
+P,Phosphorus,15,p-block,30.973762,[Ne] 3s2 3p3
+S,Sulfur,16,p-block,32.06,[Ne] 3s2 3p4
+Cl,Chlorine,17,p-block,35.45,[Ne] 3s2 3p5
+Ar,Argon,18,p-block,39.9481,[Ne] 3s2 3p6
+K,Potassium,19,s-block,39.09831,[Ar] 4s1
+Ca,Calcium,20,s-block,40.0784,[Ar] 4s2
+Sc,Scandium,21,d-block,44.9559085,[Ar] 3d1 4s2
+Ti,Titanium,22,d-block,47.8671,[Ar] 3d2 4s2
+V,Vanadium,23,d-block,50.94151,[Ar] 3d3 4s2
+Cr,Chromium,24,d-block,51.99616,[Ar] 3d5 4s1
+Mn,Manganese,25,d-block,54.9380443,[Ar] 3d5 4s2
+Fe,Iron,26,d-block,55.8452,[Ar] 3d6 4s2
+Co,Cobalt,27,d-block,58.9331944,[Ar] 3d7 4s2
+Ni,Nickel,28,d-block,58.69344,"[Ar] 3d8 4s2 or, [Ar] 3d9 4s1"
+Cu,Copper,29,d-block,63.5463,[Ar] 3d10 4s1
+Zn,Zinc,30,d-block,65.382,[Ar] 3d10 4s2
+Ga,Gallium,31,p-block,69.7231,[Ar] 3d10 4s2 4p1
+Ge,Germanium,32,p-block,72.6308,[Ar] 3d10 4s2 4p2
+As,Arsenic,33,p-block,74.9215956,[Ar] 3d10 4s2 4p3
+Se,Selenium,34,p-block,78.9718,[Ar] 3d10 4s2 4p4
+Br,Bromine,35,p-block,79.904,[Ar] 3d10 4s2 4p5
+Kr,Krypton,36,p-block,83.7982,[Ar] 3d10 4s2 4p6
+Rb,Rubidium,37,s-block,85.46783,[Kr] 5s1
+Sr,Strontium,38,s-block,87.621,[Kr] 5s2
+Y,Yttrium,39,d-block,88.905842,[Kr] 4d1 5s2
+Zr,Zirconium,40,d-block,91.2242,[Kr] 4d2 5s2
+Nb,Niobium,41,d-block,92.906372,[Kr] 4d4 5s1
+Mo,Molybdenum,42,d-block,95.951,[Kr] 4d5 5s1
+Tc,Technetium,43,d-block,98,[Kr] 4d5 5s2
+Ru,Ruthenium,44,d-block,101.072,[Kr] 4d7 5s1
+Rh,Rhodium,45,d-block,102.905502,[Kr] 4d8 5s1
+Pd,Palladium,46,d-block,106.421,[Kr] 4d10
+Ag,Silver,47,d-block,107.86822,[Kr] 4d10 5s1
+Cd,Cadmium,48,d-block,112.4144,[Kr] 4d10 5s2
+In,Indium,49,p-block,114.8181,[Kr] 4d10 5s2 5p1
+Sn,Tin,50,p-block,118.7107,[Kr] 4d10 5s2 5p2
+Sb,Antimony,51,p-block,121.7601,[Kr] 4d10 5s2 5p3
+Te,Tellurium,52,p-block,127.603,[Kr] 4d10 5s2 5p4
+I,Iodine,53,p-block,126.904473,[Kr] 4d10 5s2 5p5
+Xe,Xenon,54,p-block,131.2936,[Kr] 4d10 5s2 5p6
+Cs,Cesium,55,s-block,132.905452,[Xe] 6s1
+Ba,Barium,56,s-block,137.3277,[Xe] 6s2
+La,Lanthanum,57,f-block,138.905477,[Xe] 5d1 6s2
+Ce,Cerium,58,f-block,140.1161,[Xe] 4f1 5d1 6s2
+Pr,Praseodymium,59,f-block,140.907662,[Xe] 4f3 6s2
+Nd,Neodymium,60,f-block,144.2423,[Xe] 4f4 6s2
+Pm,Promethium,61,f-block,145,[Xe] 4f5 6s2
+Sm,Samarium,62,f-block,150.362,[Xe] 4f6 6s2
+Eu,Europium,63,f-block,151.9641,[Xe] 4f7 6s2
+Gd,Gadolinium,64,f-block,157.253,[Xe] 4f7 5d1 6s2
+Tb,Terbium,65,f-block,158.925352,[Xe] 4f9 6s2
+Dy,Dysprosium,66,f-block,162.5001,[Xe] 4f10 6s2
+Ho,Holmium,67,f-block,164.930332,[Xe] 4f11 6s2
+Er,Erbium,68,f-block,167.2593,[Xe] 4f12 6s2
+Tm,Thulium,69,f-block,168.934222,[Xe] 4f13 6s2
+Yb,Ytterbium,70,f-block,173.0451,[Xe] 4f14 6s2
+Lu,Lutetium,71,d-block,174.96681,[Xe] 6s2 4f14 5d1
+Hf,Hafnium,72,d-block,178.492,[Xe] 4f14 5d2 6s2
+Ta,Tantalum,73,d-block,180.947882,[Xe] 4f14 5d3 6s2
+W,Tungsten,74,d-block,183.841,[Xe] 4f14 5d4 6s2
+Re,Rhenium,75,d-block,186.2071,[Xe] 4f14 5d5 6s2
+Os,Osmium,76,d-block,190.233,[Xe] 4f14 5d6 6s2
+Ir,Iridium,77,d-block,192.2173,[Xe] 4f14 5d7 6s2
+Pt,Platinum,78,d-block,195.0849,[Xe] 4f14 5d9 6s1
+Au,Gold,79,d-block,196.9665695,[Xe] 4f14 5d10 6s1
+Hg,Mercury,80,d-block,200.5923,[Xe] 4f14 5d10 6s2
+Tl,Thallium,81,p-block,204.38,[Xe] 4f14 5d10 6s2 6p1
+Pb,Lead,82,p-block,207.21,[Xe] 4f14 5d10 6s2 6p2
+Bi,Bismuth,83,p-block,208.980401,[Xe] 4f14 5d10 6s2 6p3
+Po,Polonium,84,p-block,209,[Xe] 4f14 5d10 6s2 6p4
+At,Astatine,85,p-block,210,[Xe] 4f14 5d10 6s2 6p5
+Rn,Radon,86,p-block,222,[Xe] 4f14 5d10 6s2 6p6
+Fr,Francium,87,s-block,223,[Rn] 7s1
+Ra,Radium,88,s-block,226,[Rn] 7s2
+Ac,Actinium,89,f-block,227,[Rn] 6d1 7s2
+Th,Thorium,90,f-block,232.03774,[Rn] 6d2 7s2
+Pa,Protactinium,91,f-block,231.035882,[Rn] 5f2 6d1 7s2
+U,Uranium,92,f-block,238.028913,[Rn] 5f3 6d1 7s2
+Np,Neptunium,93,f-block,237,[Rn] 5f4 6d1 7s2
+Pu,Plutonium,94,f-block,244,[Rn] 5f6 7s2
+Am,Americium,95,f-block,243,[Rn] 5f7 7s2
+Cm,Curium,96,f-block,247,[Rn] 5f7 6d1 7s2
+Bk,Berkelium,97,f-block,247,[Rn] 5f9 7s2
+Cf,Californium,98,f-block,251,[Rn] 5f10 7s2
+Es,Einsteinium,99,f-block,252,[Rn] 5f11 7s2
+Fm,Fermium,100,f-block,257,[Rn] 5f12 7s2
+Md,Mendelevium,101,f-block,258,[Rn] 5f13 7s2
+No,Nobelium,102,f-block,259,[Rn] 5f14 7s2
+Lr,Lawrencium,103,d-block,266,[Rn] 5f14 7s2 7p1
+Rf,Rutherfordium,104,d-block,261,[Rn] 5f14 6d2
+Db,Dubnium,105,d-block,268,[Rn] 5f14 6d3 7s2 
+Sg,Seaborgium,106,d-block,269,[Rn] 5f14 6d4 7s2 
+Bh,Bohrium,107,d-block,270,[Rn] 5f14 6d5 7s2 
+Hs,Hassium,108,d-block,269,[Rn] 5f14 6d6 7s2 
+Mt,Meitnerium,109,d-block,278,[Rn] 5f14 6d7 7s2 (calculated)
+Ds,Darmstadtium,110,d-block,281,"[Rn] 5f14 6d8 7s2, (predicted)"
+Rg,Roentgenium,111,d-block,282,[Rn] 5f14 6d9 7s2 (predicted)
+Uub,Ununbium,112,d-block,285,[Rn] 5f14 6d10 7s2 (predicted)
+Uut,Ununtrium,113,p-block,286,[Rn] 5f14 6d10 7s2 7p1 (predicted)
+Uuq,Ununquadium,114,p-block,289,[Rn] 5f14 6d10 7s2 7p2 (predicted)
+Uup,Ununpentium,115,p-block,289,[Rn] 5f14 6d10 7s2 7p3 (predicted)
+Uuh,Ununhexium,116,p-block,293,[Rn] 5f14 6d10 7s2 7p4 (predicted)
+Uus,Ununseptium,117,p-block,294,[Rn] 5f14 6d10 7s2 7p5 (predicted)
+Uuo,Ununoctium,118,p-block,294,[Rn] 5f14 6d10 7s2 7p6 (predicted)
