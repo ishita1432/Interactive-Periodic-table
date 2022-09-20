@@ -189,5 +189,5 @@ def file5():
                 s += j
                 s += ' '
             s19_20.append(s.strip(','))
-        print(s19_20)
+        #print(s19_20)
 
