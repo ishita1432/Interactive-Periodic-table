@@ -15,7 +15,7 @@ The Interactive Periodic table is a simple Tkinter-based project that allows use
 - Simple and lightweight, built using Python and Tkinter.
 - Utilizes CSV file for storing and retrieving element data.
 
-## Installation
+## Getting Started
 
 - Ensure you have Python installed on your system. You can download Python from the official website: [Python.org](www.python.org/downloads/)
 - Clone or download the project code from the repository:
@@ -43,6 +43,7 @@ This project has the following dependencies:
 - Python (version>=3.8)
 - Tkinter (included in most Python distributions)
 No additional external packages or libraries are required beyond the standard Python installation.
+
 ## Screenshots
 
 [![Annotation-2023-03-11-080135.png](https://i.postimg.cc/q7fLMNJn/Annotation-2023-03-11-080135.png)](https://postimg.cc/5X3vsNFN)
